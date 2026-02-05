@@ -19,6 +19,14 @@ We block services that violate this principle by employing:
 * **Friction by Design:** Forcing users to manually toggle dozens of "legitimate interest" or 3rd-party vendors
   one-by-one, while offering a single-click "Accept All" button.
 
+## Using the blocklists
+
+You can use those links to add it to your blocklist.
+
+- **Cookie Paywalls:** `https://raw.githubusercontent.com/alexpado/free-cookieless/refs/heads/main/cookie-fees.txt`
+- **Deceptive Design:** *not yet created*
+- **Friction by Design:** `https://raw.githubusercontent.com/alexpado/free-cookieless/refs/heads/main/click-fatigue.txt`
+
 ## Join the Fight: How to Contribute
 
 Privacy is a collective effort. If you encounter a website that hides its "Reject" button, forces a subscription to
